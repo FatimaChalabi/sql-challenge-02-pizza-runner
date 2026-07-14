@@ -1,3 +1,7 @@
 # SQL Challenge #2: Pizza Runner 🍕
 
-My SQL solutions for Case Study #2 (Pizza Runner) — the second case study in Danny Ma's [8 Week SQL Challenge](https://8weeksqlchallenge.com/) series.You can find the original problem statement, datasets,and questions on the official site.
+This repo contains my own SQL solutions for Case Study #2 (Pizza Runner), part of the [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-2/) created by Danny Ma. The full problem statement, dataset and questions can be found on the official website.
+
+## About
+Danny launched a "Uber Eats for Pizza" concept called Pizza Runner from his home. He hired runners to deliver pizzas and built a basic delivery app, but the data he has collected is messy and needs to be cleaned up before it can be used to answer questions about runner performance, customer experience, ingredient optimisation and pricing.
+
