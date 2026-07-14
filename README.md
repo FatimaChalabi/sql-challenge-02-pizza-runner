@@ -14,5 +14,12 @@ Six tables are used:
 - **pizza_recipes** — standard toppings for each pizza
 - **pizza_toppings** — topping ID to topping name mapping
 
-
-
+## 🛠️ SQL Techniques Used
+- Data Cleaning (handling NULLs, inconsistent strings, data type conversions)
+- JOIN (INNER JOIN,LEFT JOIN)
+- String manipulation (STRING_SPLIT/STRING_TO_ARRAY, TRIM, REPLACE)
+- GROUP BY, aggregate functions (SUM, COUNT, AVG)
+- Window Functions
+- Subqueries/CTEs
+- CASE WHEN
+- Temporary tables/table variables for cleaned data
