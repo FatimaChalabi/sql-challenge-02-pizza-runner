@@ -5,3 +5,14 @@ This repo contains my own SQL solutions for Case Study #2 (Pizza Runner), part o
 ## About
 Danny launched a "Uber Eats for Pizza" concept called Pizza Runner from his home. He hired runners to deliver pizzas and built a basic delivery app, but the data he has collected is messy and needs to be cleaned up before it can be used to answer questions about runner performance, customer experience, ingredient optimisation and pricing.
 
+## 🗂️ Data Model
+Six tables are used:
+- **runners** — registration dates of delivery runners
+- **customer_orders** — pizza orders placed by customers, including exclusions/extras
+- **runner_orders** — delivery details for each order (pickup time, distance, duration, cancellations)
+- **pizza_names** — names of the two available pizzas
+- **pizza_recipes** — standard toppings for each pizza
+- **pizza_toppings** — topping ID to topping name mapping
+
+
+
